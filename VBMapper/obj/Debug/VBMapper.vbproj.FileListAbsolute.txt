@@ -1,0 +1,13 @@
+C:\Users\admin\Videos\VBMapper\VBMapper\bin\Debug\VBMapper.exe.config
+C:\Users\admin\Videos\VBMapper\VBMapper\bin\Debug\VBMapper.exe
+C:\Users\admin\Videos\VBMapper\VBMapper\bin\Debug\VBMapper.pdb
+C:\Users\admin\Videos\VBMapper\VBMapper\bin\Debug\VBMapper.xml
+C:\Users\admin\Videos\VBMapper\VBMapper\obj\Debug\VBMapper.Form1.resources
+C:\Users\admin\Videos\VBMapper\VBMapper\obj\Debug\VBMapper.Resources.resources
+C:\Users\admin\Videos\VBMapper\VBMapper\obj\Debug\VBMapper.vbproj.GenerateResource.Cache
+C:\Users\admin\Videos\VBMapper\VBMapper\obj\Debug\VBMapper.exe
+C:\Users\admin\Videos\VBMapper\VBMapper\obj\Debug\VBMapper.xml
+C:\Users\admin\Videos\VBMapper\VBMapper\obj\Debug\VBMapper.pdb
+C:\Users\admin\Videos\VBMapper\VBMapper\bin\Debug\Dapper.dll
+C:\Users\admin\Videos\VBMapper\VBMapper\bin\Debug\Dapper.xml
+C:\Users\admin\Videos\VBMapper\VBMapper\obj\Debug\VBMapper.vbprojResolveAssemblyReference.cache
